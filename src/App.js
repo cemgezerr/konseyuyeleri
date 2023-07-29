@@ -7,7 +7,7 @@ const App = () => {
 
   const [searchTerm, setSearchTerm] = useState("");
   return (
-    <div className='App'>
+    <div className='container'>
       <h1>Kurtlar Vadisi Konsey Üyeleri</h1>
       <div className='inputContainer'>
         <input
